@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动记账</string>
+    <string name="accessibility_service_label">自动记账屏幕识别服务</string>
+    <string name="accessibility_service_desc">在微信支付、支付宝、云闪付及银行 App 的支付完成页面自动识别金额与商户并记入本地账本。所有账单数据仅保存在手机本地 SQLite 数据库中，绝不联网上传。</string>
+    <string name="notification_service_label">自动记账支付通知监听</string>
+</resources>
